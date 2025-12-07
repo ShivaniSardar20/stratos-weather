@@ -1,0 +1,7 @@
+{
+  "name": "Stratos Weather",
+  "description": "Next-generation intelligent weather application powered by Google Gemini and Open-Meteo. Features real-time forecasts, interactive charts, and AI-driven daily advice.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
